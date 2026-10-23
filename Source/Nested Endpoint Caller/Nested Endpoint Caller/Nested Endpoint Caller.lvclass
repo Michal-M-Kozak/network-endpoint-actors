@@ -4,7 +4,7 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Nested Endpoint Caller.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;5`4BN2%-@R(R%&amp;:=Q*AFMX2(/#3#[C^,\#8-%NJ;]Q%KU,,&amp;'G]B7GS!(Q&amp;8S&amp;T@=^$W;BC#-"3AJW0=&lt;_P8]@\TYN5D]OJ(-.JY\:(Y_`;+=(&lt;]/B2E-?P`1OQS%YPM&lt;NV;H'$\-8_7(_W7D9=$S@LT]C$U`NL`V^*^J0(0IY0IZ`?^S=X+4PPG@0V"Z%6&amp;*"/76K3QV*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O4^*"?ZS%5/+6E]73C:.*EA[1R&amp;S6PC34S**`(Q69EH]33?R*.Y[+,%EXA34_**0!R4YEE]C3@R*"[G[J,M*TG?R-0U#DS"*`!%HM$$EAI]!3"9,*AYG!3'AM&lt;A1_!*0)'(DQI]A3@Q"*\!1\-#4_!*0)%H]$#E8Z8IGH;3YW%;/2\(YXA=D_.B;DE?R_.Y()`D94EZ(M@D)*Q&amp;H=EBS"HE&gt;(#_/"\(QR]Z(M@D?"S0Y['JXS(P6[:JWEG/R`!9(M.D?!Q05]DQ'"\$9XA-$^0+]"A?QW.Y$!^,S@!9(M.D1)R&amp;76\':-:!IZ-2'"Z?@&lt;&gt;9PUP2*&gt;:0K4;P;F/K.JNK%[EWB_KGKW[G[C;J,L\KIKIOFOICK([=#KX#K":2$7Y&gt;N?&gt;^2WWJ$&lt;7CFN3#GF.4;N+'PH((`8[PX7[H\8;LT7;DV7KFZ8+JR7+B_8SO[83KS72S@!R]Y4Q_%!\0J2M_NVI`8&amp;`^P0R_&gt;8`\\8\^_=@&gt;_N@8O]?W6O`UP`1`?$&lt;KE]&lt;T=IV_!\W.D9=!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
-	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.IsInterface" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.0</Property>
