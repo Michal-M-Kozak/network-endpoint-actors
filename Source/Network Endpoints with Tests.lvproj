@@ -75,6 +75,12 @@
 			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Support/Post-Install Custom Action.vi"/>
 			<Item Name="Invoke Network Endpoints Help.vi" Type="VI" URL="../Support/Invoke Network Endpoints Help.vi"/>
 		</Item>
+		<Item Name="Trace Generation" Type="Folder">
+			<Item Name="Generate Trace for Disconnected Network Endpoint.vi" Type="VI" URL="../Trace Generation/Generate Trace for Disconnected Network Endpoint.vi"/>
+			<Item Name="Generate Trace for Connected Network Endpoint.vi" Type="VI" URL="../Trace Generation/Generate Trace for Connected Network Endpoint.vi"/>
+			<Item Name="Generate Trace for New Network Endpoint Client.vi" Type="VI" URL="../Trace Generation/Generate Trace for New Network Endpoint Client.vi"/>
+			<Item Name="Generate Trace for New Network Endpoint Server.vi" Type="VI" URL="../Trace Generation/Generate Trace for New Network Endpoint Server.vi"/>
+		</Item>
 		<Item Name="Network Endpoint.lvlib" Type="Library" URL="../Network Endpoint/Network Endpoint.lvlib"/>
 		<Item Name="Nested Endpoint.lvlib" Type="Library" URL="../Nested Endpoint/Nested Endpoint.lvlib"/>
 		<Item Name="Caller Endpoint.lvlib" Type="Library" URL="../Caller Endpoint/Caller Endpoint.lvlib"/>
